@@ -5,3 +5,7 @@
 #### Fourth Heading
 ##### Fifth Heading
 ###### Sixth Heading
+``` python
+import utilities
+print("First Python code example")
+```
