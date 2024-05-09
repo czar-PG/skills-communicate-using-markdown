@@ -9,3 +9,7 @@
 import utilities
 print("First Python code example")
 ```
+- [ ] Added Heading Formatting
+- [ ] Added Image
+- [ ] Added Code Snippet
+- [ ] Added check-list/task-list
